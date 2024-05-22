@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072423284659",
+    "project_id": "learning-phase-e5964",
+    "storage_bucket": "learning-phase-e5964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072423284659:android:4feabf6f7ead76d29fa5c6",
+        "android_client_info": {
+          "package_name": "com.learning_phase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw22Llut5TRvJm1UM01kclaTt4f5K1sfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
